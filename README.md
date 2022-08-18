@@ -62,4 +62,4 @@ I'm a web frontend developer
 
 ### Contribute
 
-[![liu770848166' GitHub Stats](https://github-readme-stats.vercel.app/api?username=liu770848166)](https://github.com/liu770848166)
+[![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=liu770848166)](https://github.com/liu770848166)
